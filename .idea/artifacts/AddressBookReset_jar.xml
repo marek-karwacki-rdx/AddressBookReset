@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AddressBookReset:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AddressBookReset_jar</output-path>
+    <root id="archive" name="AddressBookReset.jar">
+      <element id="module-output" name="AddressBookReset" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-datatype-guava-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/guava-29.0-jre.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/guice-5.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-core-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-databind-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-dataformat-cbor-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/je-18.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-datatype-json-org-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-annotations-2.12.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
